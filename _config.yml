@@ -1,3 +1,9 @@
 title: Ahmad Raza Blog
 description: My Jekyll Blog Website
 theme: jekyll-theme-contrast
+
+nav:
+  - name: Home
+    link: /
+  - name: Blog
+    link: /blog
